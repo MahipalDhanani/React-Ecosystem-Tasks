@@ -14,4 +14,30 @@
   margin: 0 auto;
   padding: 1em;
 }
+nav {
+  background-color: #333;
+  padding: 1rem;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  margin: 0 10px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+a:hover {
+  color: #f0f0f0;
+}
+body {
+    padding:100px !important;
+}
 

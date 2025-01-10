@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Mahipal",
+      "image": "https://placehold.co/200x200",
+      "age": 20,
+      "id": 101,
+      "employe_type": "React Developer",
+      "dateOfBirth": "14-04-2004"
+    },
+    {
+      "name": "John",
+      "image": "https://placehold.co/200x200",
+      "age": 25,
+      "id": 102,
+      "employe_type": "Backend Developer",
+      "dateOfBirth": "12-05-1998"
+    },
+    {
+      "name": "Sophia",
+      "image": "https://placehold.co/200x200",
+      "age": 28,
+      "id": 103,
+      "employe_type": "Frontend Developer",
+      "dateOfBirth": "23-08-1995"
+    },
+    {
+      "name": "Emma",
+      "image": "https://placehold.co/200x200",
+      "age": 30,
+      "id": 104,
+      "employe_type": "UI/UX Designer",
+      "dateOfBirth": "03-03-1993"
+    },
+    {
+      "name": "Liam",
+      "image": "https://placehold.co/200x200",
+      "age": 22,
+      "id": 105,
+      "employe_type": "QA Engineer",
+      "dateOfBirth": "19-11-2001"
+    },
+    {
+      "name": "Olivia",
+      "image": "https://placehold.co/200x200",
+      "age": 27,
+      "id": 106,
+      "employe_type": "Project Manager",
+      "dateOfBirth": "05-07-1996"
+    },
+    {
+      "name": "Noah",
+      "image": "https://placehold.co/200x200",
+      "age": 26,
+      "id": 107,
+      "employe_type": "DevOps Engineer",
+      "dateOfBirth": "14-09-1997"
+    },
+    {
+      "name": "Ava",
+      "image": "https://placehold.co/200x200",
+      "age": 24,
+      "id": 108,
+      "employe_type": "Data Scientist",
+      "dateOfBirth": "22-02-1999"
+    },
+    {
+      "name": "Ethan",
+      "image": "https://placehold.co/200x200",
+      "age": 29,
+      "id": 109,
+      "employe_type": "Mobile App Developer",
+      "dateOfBirth": "09-06-1994"
+    },
+    {
+      "name": "Isabella",
+      "image": "https://placehold.co/200x200",
+      "age": 21,
+      "id": 110,
+      "employe_type": "Full Stack Developer",
+      "dateOfBirth": "11-12-2002"
+    }
+  ]
+  
