@@ -21,6 +21,7 @@ import Cards from "./Components/Styled-components/Cards";
 
 import ThemeProvider from "styled-components";
 import { GlobaleStyle } from "./Components/Styled-components/GlobalStyle";
+import TextToAudio from "./Components/TextToAudio";
 // import ImageUploader from "./Components/ImageUploader";
 
 function App() {
@@ -69,6 +70,7 @@ function App() {
       </ThemeProvider> */}
 
       {/* <ImageUploader /> */}
+      {/* <TextToAudio/> */}
     </>
   );
 }
